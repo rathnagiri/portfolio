@@ -1,6 +1,13 @@
-title: Minimal theme
+title: <p align="center"> Sajan Kedia </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/rathnagiri/">LinkedIn</a> |
+  <a href="https://github.com/rathnagiri">GitHub</a>  
+  <br>   
+  I'm working as GCP Cloud Developer, .Net / Go / node based Cloud µservices/application developer.
+  Also Learning Machine learning and Artificial Intelligence to break into Machine learning/ AI domain
+  <br>
+  </p>
 theme: jekyll-theme-minimal
